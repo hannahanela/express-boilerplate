@@ -1,6 +1,6 @@
 # Express App Boilerplate
 
-A boilerplate used as a template for an Express app.
+A boilerplate for an Express app.
 
 Project description goes here.
 
